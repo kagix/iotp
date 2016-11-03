@@ -1,0 +1,3 @@
+[submodule "s2fox"]
+	path = s2fox
+	url = https://github.com/kagix/s2fox
